@@ -33,7 +33,7 @@ function App() {
                   animate={{ scale: 1 }}
                   transition={{ duration: 0.5, delay: 0.2 }}
                 >
-                  Fun Run
+                  FUN RUN SMANERE
                 </motion.h1>
                 
                 <motion.p 
