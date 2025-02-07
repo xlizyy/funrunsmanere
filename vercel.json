@@ -6,7 +6,7 @@
         },
         {
             "src": "/admin",
-            "dest": "/admin"
+            "dest": "/AdminLogin"
         }
     ]
 }
