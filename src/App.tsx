@@ -1,9 +1,9 @@
 import './index.css'
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
-import RegistrationForm from './components/RegistrationForm'
-import AdminLogin from './components/AdminLogin'
-import AdminDashboard from './components/AdminDashboard'
-import Footer from './components/Footer'
+import RegistrationForm from './RegistrationForm'
+import AdminLogin from './AdminLogin'
+import AdminDashboard from './AdminDashboard'
+import Footer from './Footer'
 import { motion } from 'framer-motion'
 import { useEffect, useState } from 'react'
 
