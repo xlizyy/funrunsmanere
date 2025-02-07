@@ -15,7 +15,7 @@ export default function AdminLogin({ setIsAuthenticated }: AdminLoginProps) {
     e.preventDefault();
     
     // Simple authentication - in real world, this should be done securely
-    if (username === 'admin' && password === 'admin123') {
+    if (username === 'admin' && password === '@sman1Turen') {
       localStorage.setItem('adminAuthenticated', 'true');
       setIsAuthenticated(true);
     } else {
